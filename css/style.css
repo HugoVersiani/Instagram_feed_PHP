@@ -1,0 +1,13 @@
+.feed {
+  display: flex;
+  flex-wrap: wrap;
+  width: 1000px;
+  align-self: center;
+
+}
+
+.img {
+  border: 5px solid rgb(219, 219, 219);
+  width: 300px;
+  height: 300px;
+}
